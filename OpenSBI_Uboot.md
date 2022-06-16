@@ -2,7 +2,7 @@
 Step1:clone code
 ```
 root@admin:git clone https://github.com/u-boot/u-boot        //源码地址
-root@admin:git clone https://gitee.com/mirrors/u-boot         //国内分流
+root@admin:git clone https://gitee.com/mirrors/u-boot        //国内分流
 ```
 Step2:compile code
 ```
@@ -14,7 +14,7 @@ root@admin:make ARCH=riscv CROSS_COMPILE=riscv64-unknown-linux-gnu- -j$(nproc)
 Step1:clone code
 ```
 root@admin:git clone https://github.com/riscv-software-src/opensbi         //源码地址
-root@admin:git clone https://gitee.com/mirrors/OpenSBI                        //国内分流
+root@admin:git clone https://gitee.com/mirrors/OpenSBI                     //国内分流
 ```
 Step2:compile code
 ```
